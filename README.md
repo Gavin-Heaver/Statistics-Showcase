@@ -14,5 +14,6 @@
 <br>
 <br>
 <h2>Program Showcase</h2>
-<b>Within Suit and Tie, multiple intergral programming concepts and aspects are displayed. These aspects include: </b>
-!(Mini Project 1-3.png)
+
+![](Mini_Project_1-3.png)
+![](Mini_Project_4-5.png)
